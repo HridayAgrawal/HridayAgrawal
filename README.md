@@ -20,9 +20,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HridayAgrawal&theme=monokai&column=7" width="100%" alt="HridayAgrawal" />
 </a>
 
-<!-- <a href="github.com/HridayAgrawal">
+<a href="github.com/HridayAgrawal">
 <img src="https://holopin.me/HridayAgrawal" width="100%" alt="@HridayAgrawal's Holopin board" />
-</a> -->
+</a>
 <!-- ![trophy]() -->
 
 <!-- [![@_harshrajgupta_'s Holopin board](https://holopin.me/HridayAgrawal)](https://holopin.io/@HridayAgrawal) -->
